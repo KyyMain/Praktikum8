@@ -283,4 +283,4 @@ public class Main {
 }
 ```
 #### Output :
-![doc](Pertemuan11/output.png)
+![doc](output.png)
